@@ -35,6 +35,8 @@
    //most important 
 
    //must try them
+
+   
 const statement = 'i am a hard working person';
 
 const reversed = statement.split(' ').reverse().join(' ');
@@ -42,8 +44,8 @@ const reversed = statement.split(' ').reverse().join(' ');
 console.log(reversed)
 
 
-const statement = 'i am a hard working person';
+const statement1 = 'i am a hard working person';
 
-const reversed = statement.split('').reverse().join(' ');
+const reversed1 = statement.split('').reverse().join(' ');
 
-console.log(reversed)
+console.log(reversed1)
